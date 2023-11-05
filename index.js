@@ -20,7 +20,7 @@ const getBackupDB = (req, res, next) => {
 };
 
 // Make sure to use the default middleware
-const middlewares = [....jsonServer.defaults(), getBackupDB];
+const middlewares = [...jsonServer.defaults(), getBackupDB];
 
 server.use(middlewares);
 // Add this before server.use(router)
