@@ -3,8 +3,18 @@ const jsonServer = require("json-server");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 
+const getBackupDB = (req, res, next) => {
+  const route = req.path.split("/")[1];
+
+  if (route === "backup") {
+    res.send(JSON.stringify(db));
+  } else {
+    next();
+  }
+};
+
 // Make sure to use the default middleware
-const middlewares = jsonServer.defaults();
+const middlewares = [....jsonServer.defaults(), getBackupDB];
 
 server.use(middlewares);
 // Add this before server.use(router)
