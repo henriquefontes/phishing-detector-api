@@ -1,4 +1,7 @@
 // JSON Server module
+const fs = require("fs");]
+const path = require("path");
+
 const jsonServer = require("json-server");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
@@ -7,7 +10,10 @@ const getBackupDB = (req, res, next) => {
   const route = req.path.split("/")[1];
 
   if (route === "backup") {
-    res.send(JSON.stringify(db));
+    const filePath = path.join("db.json");
+    const data = fs.readFileSync(filePath, "utf-8");
+    
+    res.send(data);
   } else {
     next();
   }
