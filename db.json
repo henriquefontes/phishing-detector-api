@@ -319,16 +319,8 @@
          "id":15
       }
    ],
-   "comentarios":[
-      
-   ],
-   "posts":[
-      
-   ],
-   "equipe":[
-      
-   ],
-   "empresas":[
-      
-   ],
+   "comentarios":[],
+   "posts":[],
+   "equipe":[],
+   "empresas":[]
 }
