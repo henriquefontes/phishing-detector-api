@@ -1443,686 +1443,680 @@
       }
    ],
    "skateAlbuns":[
-      [
-         {
-            "id":"0",
-            "titulo":"Blunt Skate Park",
-            "descrição":"BLUNT SKATEPARK - Shop & Escola de Skate",
-            "localização":"Rua Montes Claros, 173 - Carmo Belo Horizonte - MG, CEP: 30310-370",
-            "data":"10 de Setembro de 2023",
-            "url":"https://i.imgur.com/L4pzvhw.jpg",
-            "latitude":"-19.94308624875768",
-            "longitude":"-43.93320272162661"
-         },
-         {
-            "id":"1",
-            "titulo":"Esplanada",
-            "descrição":"Com 80 mil m², é considerada como um dos melhores locais para a prática de esportes como skate, patins, bicicleta, corrida e caminhada. O local também é palco de grandes shows e espetáculos. Com infraestrutura e segurança, possui serviços de alimentação e aluguel de bicicletas e outros equipamentos para sua diversão. O acesso do público é feito pelas entradas norte e sul e para quem gosta de arte urbana, a Esplanada Sul costuma ter painéis de grafite de diversos artistas convidados.",
-            "localização":"Avenida Antônio Abrahão Caram, 1001 - São José Pampulha",
-            "data":"10 de Setembro de 2023",
-            "url":"https://i.imgur.com/BmDgZNr.jpg",
-            "latitude":"-19.86457631531939",
-            "longitude":"-43.97200926557026"
-         },
-         {
-            "id":"2",
-            "titulo":"Lagoa do Nado",
-            "descrição":"Localizado na região norte de Belo Horizonte, o Parque Municipal Fazenda Lagoa do Nado possui uma área de aproximadamente 311 mil metros quadrados e foi implantado em 1994. Com uma infraestrutura composta por biblioteca, sala multimeios, teatro de bolso, teatro de arena, quadras poliesportivas, pista de skate, campo de futebol, pista para caminhadas e viveiro de mudas, o parque realiza diversas atividades de educação ambiental, cultura e esporte.",
-            "localização":"R. Min. Hermenegildo de Barros, 904 - Itapoã, Belo Horizonte - MG, 31710-230",
-            "data":"10 de Setembro de 2023",
-            "url":"https://i.imgur.com/EujhVgU.jpg",
-            "latitude":"-19.833332672490293",
-            "longitude":"-43.95962649287515"
-         },
-         {
-            "id":"3",
-            "titulo":"Mangabeiras",
-            "descrição":"Uso obrigatório de equipamento de segurança individual (capacete, cotoveleiras, joelheiras). Sem necessidade de agendamento.",
-            "localização":"Avenida José de Patrocínio Pontes, 580 - Portaria Sul – Mangabeiras Centro-Sul",
-            "data":"10 de Setembro de 2023",
-            "url":"https://i.imgur.com/sLHZC1i.jpg",
-            "latitude":"-19.950773593550835",
-            "longitude":"-43.905607037070496"
-         },
-         {
-            "id":"4",
-            "titulo":"Nova Zoo",
-            "descrição":"A pista de skate NovaZoo, localizada no bairro Nova Floresta, em Belo Horizonte (MG), é uma das pistas de skate mais tradicionais e antigas da cidade e ganhou mais uma reforma e reformulação.",
-            "localização":"Rua José Geraldo Bessa, R. Salgueiro, 99 - Nova Floresta, Belo Horizonte - MG, 31140-400",
-            "data":"10 de Setembro de 2023",
-            "url":"https://i.imgur.com/9UrAlTE.jpg",
-            "latitude":"-19.888595236615178",
-            "longitude":"-43.905607037070496"
-         },
-         {
-            "id":"5",
-            "titulo":"Santa Tereza",
-            "descrição":"Plaza abaixo do viaduto Santa Tereza no Centro de Belo Horizonte ao lado da Praça 7.",
-            "localização":"Av. Assis Chateaubriand, 1002 - Floresta, Belo Horizonte - MG, 30110-002",
-            "data":"10 de Setembro de 2023",
-            "url":"https://i.imgur.com/Q4MkAa0.jpg",
-            "latitude":"-19.919888550457898",
-            "longitude":"-43.9347455986726"
-         },
-         {
-            "id":"6",
-            "titulo":"Spot Culture",
-            "descrição":"Localizado na área central da cidade, o Spot Culture é um espaço criativo de multiuso relacionado à cena do skate. Além de bar, oferece um espaço para treinamento e vivência para atletas e amadores do skate, com rampas e obstáculos disponíveis para uso. No local também há sinuca e ocorrem oficinas de arte e cultura (graffiti, música, fotografia e outras). Ainda, há um espaço de exibição de audiovisual, exposições e eventos de cunho cultural em geral, além de área para shows, skate shop, feira de brechós e restaurante. As programações semanais são lançadas no Instagram da página.",
-            "localização":"Spot Rua São Paulo, 978 - Centro Centro-Sul",
-            "data":"10 de Setembro de 2023",
-            "url":"https://i.imgur.com/utSzJx6.jpg",
-            "latitude":"-19.92178545109483",
-            "longitude":"-43.94105308999206"
-         },
-         {
-            "id":"7",
-            "titulo":"Taboca",
-            "descrição":"O parque tem uma área aproximada de 59 mil metros quadrados e está inserido na macrobacia do Onça, na bacia da Avenida Nossa Senhora da Piedade e sub-bacia Nossa Senhora da Piedade. Inaugurado em junho de 2008, possui atualmente uma área ocupada por uma vegetação diversificada e por águas reavivadas. A iniciativa trouxe uma nova dinâmica para a vida dos moradores e estimula práticas saudáveis e de lazer. Os frequentadores contam com espaços para recreação infantil e exercícios físicos: pista de skate, brinquedos e quadras esportivas.",
-            "localização":"Rua Rubens de Souza Pimentel, 750 - Aarão Reis Norte",
-            "data":"10 de Setembro de 2023",
-            "url":"https://i.imgur.com/lyfDzhC.jpg",
-            "latitude":"-19.8478211460914",
-            "longitude":"-43.927835923243684"
-         }
-      ]
+      {
+         "id":"0",
+         "titulo":"Blunt Skate Park",
+         "descrição":"BLUNT SKATEPARK - Shop & Escola de Skate",
+         "localização":"Rua Montes Claros, 173 - Carmo Belo Horizonte - MG, CEP: 30310-370",
+         "data":"10 de Setembro de 2023",
+         "url":"https://i.imgur.com/L4pzvhw.jpg",
+         "latitude":"-19.94308624875768",
+         "longitude":"-43.93320272162661"
+      },
+      {
+         "id":"1",
+         "titulo":"Esplanada",
+         "descrição":"Com 80 mil m², é considerada como um dos melhores locais para a prática de esportes como skate, patins, bicicleta, corrida e caminhada. O local também é palco de grandes shows e espetáculos. Com infraestrutura e segurança, possui serviços de alimentação e aluguel de bicicletas e outros equipamentos para sua diversão. O acesso do público é feito pelas entradas norte e sul e para quem gosta de arte urbana, a Esplanada Sul costuma ter painéis de grafite de diversos artistas convidados.",
+         "localização":"Avenida Antônio Abrahão Caram, 1001 - São José Pampulha",
+         "data":"10 de Setembro de 2023",
+         "url":"https://i.imgur.com/BmDgZNr.jpg",
+         "latitude":"-19.86457631531939",
+         "longitude":"-43.97200926557026"
+      },
+      {
+         "id":"2",
+         "titulo":"Lagoa do Nado",
+         "descrição":"Localizado na região norte de Belo Horizonte, o Parque Municipal Fazenda Lagoa do Nado possui uma área de aproximadamente 311 mil metros quadrados e foi implantado em 1994. Com uma infraestrutura composta por biblioteca, sala multimeios, teatro de bolso, teatro de arena, quadras poliesportivas, pista de skate, campo de futebol, pista para caminhadas e viveiro de mudas, o parque realiza diversas atividades de educação ambiental, cultura e esporte.",
+         "localização":"R. Min. Hermenegildo de Barros, 904 - Itapoã, Belo Horizonte - MG, 31710-230",
+         "data":"10 de Setembro de 2023",
+         "url":"https://i.imgur.com/EujhVgU.jpg",
+         "latitude":"-19.833332672490293",
+         "longitude":"-43.95962649287515"
+      },
+      {
+         "id":"3",
+         "titulo":"Mangabeiras",
+         "descrição":"Uso obrigatório de equipamento de segurança individual (capacete, cotoveleiras, joelheiras). Sem necessidade de agendamento.",
+         "localização":"Avenida José de Patrocínio Pontes, 580 - Portaria Sul – Mangabeiras Centro-Sul",
+         "data":"10 de Setembro de 2023",
+         "url":"https://i.imgur.com/sLHZC1i.jpg",
+         "latitude":"-19.950773593550835",
+         "longitude":"-43.905607037070496"
+      },
+      {
+         "id":"4",
+         "titulo":"Nova Zoo",
+         "descrição":"A pista de skate NovaZoo, localizada no bairro Nova Floresta, em Belo Horizonte (MG), é uma das pistas de skate mais tradicionais e antigas da cidade e ganhou mais uma reforma e reformulação.",
+         "localização":"Rua José Geraldo Bessa, R. Salgueiro, 99 - Nova Floresta, Belo Horizonte - MG, 31140-400",
+         "data":"10 de Setembro de 2023",
+         "url":"https://i.imgur.com/9UrAlTE.jpg",
+         "latitude":"-19.888595236615178",
+         "longitude":"-43.905607037070496"
+      },
+      {
+         "id":"5",
+         "titulo":"Santa Tereza",
+         "descrição":"Plaza abaixo do viaduto Santa Tereza no Centro de Belo Horizonte ao lado da Praça 7.",
+         "localização":"Av. Assis Chateaubriand, 1002 - Floresta, Belo Horizonte - MG, 30110-002",
+         "data":"10 de Setembro de 2023",
+         "url":"https://i.imgur.com/Q4MkAa0.jpg",
+         "latitude":"-19.919888550457898",
+         "longitude":"-43.9347455986726"
+      },
+      {
+         "id":"6",
+         "titulo":"Spot Culture",
+         "descrição":"Localizado na área central da cidade, o Spot Culture é um espaço criativo de multiuso relacionado à cena do skate. Além de bar, oferece um espaço para treinamento e vivência para atletas e amadores do skate, com rampas e obstáculos disponíveis para uso. No local também há sinuca e ocorrem oficinas de arte e cultura (graffiti, música, fotografia e outras). Ainda, há um espaço de exibição de audiovisual, exposições e eventos de cunho cultural em geral, além de área para shows, skate shop, feira de brechós e restaurante. As programações semanais são lançadas no Instagram da página.",
+         "localização":"Spot Rua São Paulo, 978 - Centro Centro-Sul",
+         "data":"10 de Setembro de 2023",
+         "url":"https://i.imgur.com/utSzJx6.jpg",
+         "latitude":"-19.92178545109483",
+         "longitude":"-43.94105308999206"
+      },
+      {
+         "id":"7",
+         "titulo":"Taboca",
+         "descrição":"O parque tem uma área aproximada de 59 mil metros quadrados e está inserido na macrobacia do Onça, na bacia da Avenida Nossa Senhora da Piedade e sub-bacia Nossa Senhora da Piedade. Inaugurado em junho de 2008, possui atualmente uma área ocupada por uma vegetação diversificada e por águas reavivadas. A iniciativa trouxe uma nova dinâmica para a vida dos moradores e estimula práticas saudáveis e de lazer. Os frequentadores contam com espaços para recreação infantil e exercícios físicos: pista de skate, brinquedos e quadras esportivas.",
+         "localização":"Rua Rubens de Souza Pimentel, 750 - Aarão Reis Norte",
+         "data":"10 de Setembro de 2023",
+         "url":"https://i.imgur.com/lyfDzhC.jpg",
+         "latitude":"-19.8478211460914",
+         "longitude":"-43.927835923243684"
+      }
    ],
    "skateFotos":[
-      [
-         {
-            "id":"0",
-            "album":"0",
-            "descrição":"Pista do tipo Bowl.",
-            "url":"https://i.imgur.com/12NrY4H.jpg"
-         },
-         {
-            "id":"1",
-            "album":"0",
-            "descrição":"Foto do campeonato.",
-            "url":"https://i.imgur.com/Qvu8AAO.png"
-         },
-         {
-            "id":"2",
-            "album":"0",
-            "descrição":"Pista de obstaculos.",
-            "url":"https://i.imgur.com/FI2W60y.jpg"
-         },
-         {
-            "id":"3",
-            "album":"0",
-            "descrição":"Pista do tipo Bowl.",
-            "url":"https://i.imgur.com/12NrY4H.jpg"
-         },
-         {
-            "id":"4",
-            "album":"0",
-            "descrição":"Foto do campeonato.",
-            "url":"https://i.imgur.com/Qvu8AAO.png"
-         },
-         {
-            "id":"5",
-            "album":"0",
-            "descrição":"Pista de obstaculos.",
-            "url":"https://i.imgur.com/FI2W60y.jpg"
-         },
-         {
-            "id":"6",
-            "album":"0",
-            "descrição":"Pista do tipo Bowl.",
-            "url":"https://i.imgur.com/12NrY4H.jpg"
-         },
-         {
-            "id":"7",
-            "album":"0",
-            "descrição":"Foto do campeonato.",
-            "url":"https://i.imgur.com/Qvu8AAO.png"
-         },
-         {
-            "id":"8",
-            "album":"0",
-            "descrição":"Pista de obstaculos.",
-            "url":"https://i.imgur.com/FI2W60y.jpg"
-         },
-         {
-            "id":"9",
-            "album":"0",
-            "descrição":"Pista do tipo Bowl.",
-            "url":"https://i.imgur.com/12NrY4H.jpg"
-         },
-         {
-            "id":"10",
-            "album":"0",
-            "descrição":"Foto do campeonato.",
-            "url":"https://i.imgur.com/Qvu8AAO.png"
-         },
-         {
-            "id":"11",
-            "album":"0",
-            "descrição":"Pista de obstaculos.",
-            "url":"https://i.imgur.com/FI2W60y.jpg"
-         },
-         {
-            "id":"12",
-            "album":"1",
-            "descrição":"Patins modalidade livre.",
-            "url":"https://i.imgur.com/CEF95WZ.png"
-         },
-         {
-            "id":"13",
-            "album":"1",
-            "descrição":"Patins com obstaculos.",
-            "url":"https://i.imgur.com/olPr4zz.png"
-         },
-         {
-            "id":"14",
-            "album":"1",
-            "descrição":"Bike modalidade livre.",
-            "url":"https://i.imgur.com/8Zs1ZD9.png"
-         },
-         {
-            "id":"15",
-            "album":"1",
-            "descrição":"Patins modalidade livre.",
-            "url":"https://i.imgur.com/CEF95WZ.png"
-         },
-         {
-            "id":"16",
-            "album":"1",
-            "descrição":"Patins com obstaculos.",
-            "url":"https://i.imgur.com/olPr4zz.png"
-         },
-         {
-            "id":"17",
-            "album":"1",
-            "descrição":"Bike modalidade livre.",
-            "url":"https://i.imgur.com/8Zs1ZD9.png"
-         },
-         {
-            "id":"18",
-            "album":"1",
-            "descrição":"Patins modalidade livre.",
-            "url":"https://i.imgur.com/CEF95WZ.png"
-         },
-         {
-            "id":"19",
-            "album":"1",
-            "descrição":"Patins com obstaculos.",
-            "url":"https://i.imgur.com/olPr4zz.png"
-         },
-         {
-            "id":"20",
-            "album":"1",
-            "descrição":"Bike modalidade livre.",
-            "url":"https://i.imgur.com/8Zs1ZD9.png"
-         },
-         {
-            "id":"21",
-            "album":"1",
-            "descrição":"Patins modalidade livre.",
-            "url":"https://i.imgur.com/CEF95WZ.png"
-         },
-         {
-            "id":"22",
-            "album":"1",
-            "descrição":"Patins com obstaculos.",
-            "url":"https://i.imgur.com/olPr4zz.png"
-         },
-         {
-            "id":"23",
-            "album":"1",
-            "descrição":"Bike modalidade livre.",
-            "url":"https://i.imgur.com/8Zs1ZD9.png"
-         },
-         {
-            "id":"24",
-            "album":"2",
-            "descrição":"Bowl menor e obstaculos.",
-            "url":"https://i.imgur.com/z6hHJgV.jpg"
-         },
-         {
-            "id":"25",
-            "album":"2",
-            "descrição":"Bowl maior e rampa.",
-            "url":"https://i.imgur.com/U3tXv9w.jpg"
-         },
-         {
-            "id":"26",
-            "album":"2",
-            "descrição":"Pista vista inteira, bowls e obstaculos.",
-            "url":"https://i.imgur.com/FIs6XHc.jpg"
-         },
-         {
-            "id":"27",
-            "album":"2",
-            "descrição":"Bowl menor e obstaculos.",
-            "url":"https://i.imgur.com/z6hHJgV.jpg"
-         },
-         {
-            "id":"28",
-            "album":"2",
-            "descrição":"Bowl maior e rampa.",
-            "url":"https://i.imgur.com/U3tXv9w.jpg"
-         },
-         {
-            "id":"29",
-            "album":"2",
-            "descrição":"Pista vista inteira, bowls e obstaculos.",
-            "url":"https://i.imgur.com/FIs6XHc.jpg"
-         },
-         {
-            "id":"30",
-            "album":"2",
-            "descrição":"Bowl menor e obstaculos.",
-            "url":"https://i.imgur.com/z6hHJgV.jpg"
-         },
-         {
-            "id":"31",
-            "album":"2",
-            "descrição":"Bowl maior e rampa.",
-            "url":"https://i.imgur.com/U3tXv9w.jpg"
-         },
-         {
-            "id":"32",
-            "album":"2",
-            "descrição":"Pista vista inteira, bowls e obstaculos.",
-            "url":"https://i.imgur.com/FIs6XHc.jpg"
-         },
-         {
-            "id":"33",
-            "album":"2",
-            "descrição":"Bowl menor e obstaculos.",
-            "url":"https://i.imgur.com/z6hHJgV.jpg"
-         },
-         {
-            "id":"34",
-            "album":"2",
-            "descrição":"Bowl maior e rampa.",
-            "url":"https://i.imgur.com/U3tXv9w.jpg"
-         },
-         {
-            "id":"35",
-            "album":"2",
-            "descrição":"Pista vista inteira, bowls e obstaculos.",
-            "url":"https://i.imgur.com/FIs6XHc.jpg"
-         },
-         {
-            "id":"36",
-            "album":"3",
-            "descrição":"Rampa inteira.",
-            "url":"https://i.imgur.com/bPLvWjz.jpg"
-         },
-         {
-            "id":"37",
-            "album":"3",
-            "descrição":"Vista topo da rampa.",
-            "url":"https://i.imgur.com/9JRXQPQ.jpg"
-         },
-         {
-            "id":"38",
-            "album":"3",
-            "descrição":"Vista da pista de obstaculos.",
-            "url":"https://i.imgur.com/ab5AL1t.jpg"
-         },
-         {
-            "id":"39",
-            "album":"3",
-            "descrição":"Rampa inteira.",
-            "url":"https://i.imgur.com/bPLvWjz.jpg"
-         },
-         {
-            "id":"40",
-            "album":"3",
-            "descrição":"Vista topo da rampa.",
-            "url":"https://i.imgur.com/9JRXQPQ.jpg"
-         },
-         {
-            "id":"41",
-            "album":"3",
-            "descrição":"Vista da pista de obstaculos.",
-            "url":"https://i.imgur.com/ab5AL1t.jpg"
-         },
-         {
-            "id":"42",
-            "album":"3",
-            "descrição":"Rampa inteira.",
-            "url":"https://i.imgur.com/bPLvWjz.jpg"
-         },
-         {
-            "id":"43",
-            "album":"3",
-            "descrição":"Vista topo da rampa.",
-            "url":"https://i.imgur.com/9JRXQPQ.jpg"
-         },
-         {
-            "id":"44",
-            "album":"3",
-            "descrição":"Vista da pista de obstaculos.",
-            "url":"https://i.imgur.com/ab5AL1t.jpg"
-         },
-         {
-            "id":"45",
-            "album":"3",
-            "descrição":"Rampa inteira.",
-            "url":"https://i.imgur.com/bPLvWjz.jpg"
-         },
-         {
-            "id":"46",
-            "album":"3",
-            "descrição":"Vista topo da rampa.",
-            "url":"https://i.imgur.com/9JRXQPQ.jpg"
-         },
-         {
-            "id":"47",
-            "album":"3",
-            "descrição":"Vista da pista de obstaculos.",
-            "url":"https://i.imgur.com/ab5AL1t.jpg"
-         },
-         {
-            "id":"48",
-            "album":"4",
-            "descrição":"Nova zoo rampa antiga.",
-            "url":"https://i.imgur.com/3r1Ptci.jpg"
-         },
-         {
-            "id":"49",
-            "album":"4",
-            "descrição":"Nova zoo pista de obstaculos antiga.",
-            "url":"https://i.imgur.com/tOsJ3AM.jpg"
-         },
-         {
-            "id":"50",
-            "album":"4",
-            "descrição":"Nova zoo em periodo de reforma.",
-            "url":"https://i.imgur.com/jhNCdaK.jpg"
-         },
-         {
-            "id":"51",
-            "album":"4",
-            "descrição":"Nova zoo rampa antiga.",
-            "url":"https://i.imgur.com/3r1Ptci.jpg"
-         },
-         {
-            "id":"52",
-            "album":"4",
-            "descrição":"Nova zoo pista de obstaculos antiga.",
-            "url":"https://i.imgur.com/tOsJ3AM.jpg"
-         },
-         {
-            "id":"53",
-            "album":"4",
-            "descrição":"Nova zoo em periodo de reforma.",
-            "url":"https://i.imgur.com/jhNCdaK.jpg"
-         },
-         {
-            "id":"54",
-            "album":"4",
-            "descrição":"Nova zoo rampa antiga.",
-            "url":"https://i.imgur.com/3r1Ptci.jpg"
-         },
-         {
-            "id":"55",
-            "album":"4",
-            "descrição":"Nova zoo pista de obstaculos antiga.",
-            "url":"https://i.imgur.com/tOsJ3AM.jpg"
-         },
-         {
-            "id":"56",
-            "album":"4",
-            "descrição":"Nova zoo em periodo de reforma.",
-            "url":"https://i.imgur.com/jhNCdaK.jpg"
-         },
-         {
-            "id":"57",
-            "album":"4",
-            "descrição":"Nova zoo rampa antiga.",
-            "url":"https://i.imgur.com/3r1Ptci.jpg"
-         },
-         {
-            "id":"58",
-            "album":"4",
-            "descrição":"Nova zoo pista de obstaculos antiga.",
-            "url":"https://i.imgur.com/tOsJ3AM.jpg"
-         },
-         {
-            "id":"59",
-            "album":"4",
-            "descrição":"Nova zoo em periodo de reforma.",
-            "url":"https://i.imgur.com/jhNCdaK.jpg"
-         },
-         {
-            "id":"60",
-            "album":"5",
-            "descrição":"Santê dia de evento.",
-            "url":"https://i.imgur.com/5xxvZV1.jpg"
-         },
-         {
-            "id":"61",
-            "album":"5",
-            "descrição":"Santê campeonato.",
-            "url":"https://i.imgur.com/bBeqUBf.jpg"
-         },
-         {
-            "id":"62",
-            "album":"5",
-            "descrição":"Santê dia de evento.",
-            "url":"https://i.imgur.com/5xxvZV1.jpg"
-         },
-         {
-            "id":"63",
-            "album":"5",
-            "descrição":"Santê campeonato.",
-            "url":"https://i.imgur.com/bBeqUBf.jpg"
-         },
-         {
-            "id":"64",
-            "album":"5",
-            "descrição":"Santê dia de evento.",
-            "url":"https://i.imgur.com/5xxvZV1.jpg"
-         },
-         {
-            "id":"65",
-            "album":"5",
-            "descrição":"Santê campeonato.",
-            "url":"https://i.imgur.com/bBeqUBf.jpg"
-         },
-         {
-            "id":"66",
-            "album":"5",
-            "descrição":"Santê dia de evento.",
-            "url":"https://i.imgur.com/5xxvZV1.jpg"
-         },
-         {
-            "id":"67",
-            "album":"5",
-            "descrição":"Santê campeonato.",
-            "url":"https://i.imgur.com/bBeqUBf.jpg"
-         },
-         {
-            "id":"68",
-            "album":"5",
-            "descrição":"Santê dia de evento.",
-            "url":"https://i.imgur.com/5xxvZV1.jpg"
-         },
-         {
-            "id":"69",
-            "album":"5",
-            "descrição":"Santê campeonato.",
-            "url":"https://i.imgur.com/bBeqUBf.jpg"
-         },
-         {
-            "id":"70",
-            "album":"5",
-            "descrição":"Santê dia de evento.",
-            "url":"https://i.imgur.com/5xxvZV1.jpg"
-         },
-         {
-            "id":"71",
-            "album":"5",
-            "descrição":"Santê campeonato.",
-            "url":"https://i.imgur.com/bBeqUBf.jpg"
-         },
-         {
-            "id":"72",
-            "album":"6",
-            "descrição":"Artes feitas em shape de Cruiser.",
-            "url":"https://i.imgur.com/txTWQgX.png"
-         },
-         {
-            "id":"73",
-            "album":"6",
-            "descrição":"Sinuca bar e pista de skate.",
-            "url":"https://i.imgur.com/SlTu3bk.png"
-         },
-         {
-            "id":"74",
-            "album":"6",
-            "descrição":"Vista do bar e espaço de convivencia.",
-            "url":"https://i.imgur.com/jg6mppM.png"
-         },
-         {
-            "id":"75",
-            "album":"6",
-            "descrição":"Artes feitas em shape de Cruiser.",
-            "url":"https://i.imgur.com/txTWQgX.png"
-         },
-         {
-            "id":"76",
-            "album":"6",
-            "descrição":"Sinuca bar e pista de skate.",
-            "url":"https://i.imgur.com/SlTu3bk.png"
-         },
-         {
-            "id":"77",
-            "album":"6",
-            "descrição":"Vista do bar e espaço de convivencia.",
-            "url":"https://i.imgur.com/jg6mppM.png"
-         },
-         {
-            "id":"78",
-            "album":"6",
-            "descrição":"Artes feitas em shape de Cruiser.",
-            "url":"https://i.imgur.com/txTWQgX.png"
-         },
-         {
-            "id":"79",
-            "album":"6",
-            "descrição":"Sinuca bar e pista de skate.",
-            "url":"https://i.imgur.com/SlTu3bk.png"
-         },
-         {
-            "id":"81",
-            "album":"6",
-            "descrição":"Artes feitas em shape de Cruiser.",
-            "url":"https://i.imgur.com/txTWQgX.png"
-         },
-         {
-            "id":"82",
-            "album":"6",
-            "descrição":"Sinuca bar e pista de skate.",
-            "url":"https://i.imgur.com/SlTu3bk.png"
-         },
-         {
-            "id":"83",
-            "album":"6",
-            "descrição":"Sinuca bar e pista de skate.",
-            "url":"https://i.imgur.com/SlTu3bk.png"
-         },
-         {
-            "id":"84",
-            "album":"6",
-            "descrição":"Ollie no hidrante",
-            "url":"https://i.imgur.com/VBExiZM.png"
-         },
-         {
-            "id":"85",
-            "album":"7",
-            "descrição":"Vista da rampa maior.",
-            "url":"https://i.imgur.com/H25Gt6n.png"
-         },
-         {
-            "id":"86",
-            "album":"7",
-            "descrição":"Vista da pista inteira.",
-            "url":"https://i.imgur.com/TSz63vG.png"
-         },
-         {
-            "id":"87",
-            "album":"7",
-            "descrição":"Vista do lago do parque.",
-            "url":"https://i.imgur.com/YCOJJ9d.png"
-         },
-         {
-            "id":"88",
-            "album":"7",
-            "descrição":"Vista da rampa maior.",
-            "url":"https://i.imgur.com/H25Gt6n.png"
-         },
-         {
-            "id":"89",
-            "album":"7",
-            "descrição":"Vista da pista inteira.",
-            "url":"https://i.imgur.com/TSz63vG.png"
-         },
-         {
-            "id":"90",
-            "album":"7",
-            "descrição":"Vista do lago do parque.",
-            "url":"https://i.imgur.com/YCOJJ9d.png"
-         },
-         {
-            "id":"91",
-            "album":"7",
-            "descrição":"Vista da rampa maior.",
-            "url":"https://i.imgur.com/H25Gt6n.png"
-         },
-         {
-            "id":"92",
-            "album":"7",
-            "descrição":"Vista da pista inteira.",
-            "url":"https://i.imgur.com/TSz63vG.png"
-         },
-         {
-            "id":"93",
-            "album":"7",
-            "descrição":"Vista do lago do parque.",
-            "url":"https://i.imgur.com/YCOJJ9d.png"
-         },
-         {
-            "id":"94",
-            "album":"7",
-            "descrição":"Vista da rampa maior.",
-            "url":"https://i.imgur.com/H25Gt6n.png"
-         },
-         {
-            "id":"95",
-            "album":"7",
-            "descrição":"Vista da pista inteira.",
-            "url":"https://i.imgur.com/TSz63vG.png"
-         },
-         {
-            "id":"96",
-            "album":"7",
-            "descrição":"Vista do lago do parque.",
-            "url":"https://i.imgur.com/YCOJJ9d.png"
-         }
-      ]
+      {
+         "id":"0",
+         "album":"0",
+         "descrição":"Pista do tipo Bowl.",
+         "url":"https://i.imgur.com/12NrY4H.jpg"
+      },
+      {
+         "id":"1",
+         "album":"0",
+         "descrição":"Foto do campeonato.",
+         "url":"https://i.imgur.com/Qvu8AAO.png"
+      },
+      {
+         "id":"2",
+         "album":"0",
+         "descrição":"Pista de obstaculos.",
+         "url":"https://i.imgur.com/FI2W60y.jpg"
+      },
+      {
+         "id":"3",
+         "album":"0",
+         "descrição":"Pista do tipo Bowl.",
+         "url":"https://i.imgur.com/12NrY4H.jpg"
+      },
+      {
+         "id":"4",
+         "album":"0",
+         "descrição":"Foto do campeonato.",
+         "url":"https://i.imgur.com/Qvu8AAO.png"
+      },
+      {
+         "id":"5",
+         "album":"0",
+         "descrição":"Pista de obstaculos.",
+         "url":"https://i.imgur.com/FI2W60y.jpg"
+      },
+      {
+         "id":"6",
+         "album":"0",
+         "descrição":"Pista do tipo Bowl.",
+         "url":"https://i.imgur.com/12NrY4H.jpg"
+      },
+      {
+         "id":"7",
+         "album":"0",
+         "descrição":"Foto do campeonato.",
+         "url":"https://i.imgur.com/Qvu8AAO.png"
+      },
+      {
+         "id":"8",
+         "album":"0",
+         "descrição":"Pista de obstaculos.",
+         "url":"https://i.imgur.com/FI2W60y.jpg"
+      },
+      {
+         "id":"9",
+         "album":"0",
+         "descrição":"Pista do tipo Bowl.",
+         "url":"https://i.imgur.com/12NrY4H.jpg"
+      },
+      {
+         "id":"10",
+         "album":"0",
+         "descrição":"Foto do campeonato.",
+         "url":"https://i.imgur.com/Qvu8AAO.png"
+      },
+      {
+         "id":"11",
+         "album":"0",
+         "descrição":"Pista de obstaculos.",
+         "url":"https://i.imgur.com/FI2W60y.jpg"
+      },
+      {
+         "id":"12",
+         "album":"1",
+         "descrição":"Patins modalidade livre.",
+         "url":"https://i.imgur.com/CEF95WZ.png"
+      },
+      {
+         "id":"13",
+         "album":"1",
+         "descrição":"Patins com obstaculos.",
+         "url":"https://i.imgur.com/olPr4zz.png"
+      },
+      {
+         "id":"14",
+         "album":"1",
+         "descrição":"Bike modalidade livre.",
+         "url":"https://i.imgur.com/8Zs1ZD9.png"
+      },
+      {
+         "id":"15",
+         "album":"1",
+         "descrição":"Patins modalidade livre.",
+         "url":"https://i.imgur.com/CEF95WZ.png"
+      },
+      {
+         "id":"16",
+         "album":"1",
+         "descrição":"Patins com obstaculos.",
+         "url":"https://i.imgur.com/olPr4zz.png"
+      },
+      {
+         "id":"17",
+         "album":"1",
+         "descrição":"Bike modalidade livre.",
+         "url":"https://i.imgur.com/8Zs1ZD9.png"
+      },
+      {
+         "id":"18",
+         "album":"1",
+         "descrição":"Patins modalidade livre.",
+         "url":"https://i.imgur.com/CEF95WZ.png"
+      },
+      {
+         "id":"19",
+         "album":"1",
+         "descrição":"Patins com obstaculos.",
+         "url":"https://i.imgur.com/olPr4zz.png"
+      },
+      {
+         "id":"20",
+         "album":"1",
+         "descrição":"Bike modalidade livre.",
+         "url":"https://i.imgur.com/8Zs1ZD9.png"
+      },
+      {
+         "id":"21",
+         "album":"1",
+         "descrição":"Patins modalidade livre.",
+         "url":"https://i.imgur.com/CEF95WZ.png"
+      },
+      {
+         "id":"22",
+         "album":"1",
+         "descrição":"Patins com obstaculos.",
+         "url":"https://i.imgur.com/olPr4zz.png"
+      },
+      {
+         "id":"23",
+         "album":"1",
+         "descrição":"Bike modalidade livre.",
+         "url":"https://i.imgur.com/8Zs1ZD9.png"
+      },
+      {
+         "id":"24",
+         "album":"2",
+         "descrição":"Bowl menor e obstaculos.",
+         "url":"https://i.imgur.com/z6hHJgV.jpg"
+      },
+      {
+         "id":"25",
+         "album":"2",
+         "descrição":"Bowl maior e rampa.",
+         "url":"https://i.imgur.com/U3tXv9w.jpg"
+      },
+      {
+         "id":"26",
+         "album":"2",
+         "descrição":"Pista vista inteira, bowls e obstaculos.",
+         "url":"https://i.imgur.com/FIs6XHc.jpg"
+      },
+      {
+         "id":"27",
+         "album":"2",
+         "descrição":"Bowl menor e obstaculos.",
+         "url":"https://i.imgur.com/z6hHJgV.jpg"
+      },
+      {
+         "id":"28",
+         "album":"2",
+         "descrição":"Bowl maior e rampa.",
+         "url":"https://i.imgur.com/U3tXv9w.jpg"
+      },
+      {
+         "id":"29",
+         "album":"2",
+         "descrição":"Pista vista inteira, bowls e obstaculos.",
+         "url":"https://i.imgur.com/FIs6XHc.jpg"
+      },
+      {
+         "id":"30",
+         "album":"2",
+         "descrição":"Bowl menor e obstaculos.",
+         "url":"https://i.imgur.com/z6hHJgV.jpg"
+      },
+      {
+         "id":"31",
+         "album":"2",
+         "descrição":"Bowl maior e rampa.",
+         "url":"https://i.imgur.com/U3tXv9w.jpg"
+      },
+      {
+         "id":"32",
+         "album":"2",
+         "descrição":"Pista vista inteira, bowls e obstaculos.",
+         "url":"https://i.imgur.com/FIs6XHc.jpg"
+      },
+      {
+         "id":"33",
+         "album":"2",
+         "descrição":"Bowl menor e obstaculos.",
+         "url":"https://i.imgur.com/z6hHJgV.jpg"
+      },
+      {
+         "id":"34",
+         "album":"2",
+         "descrição":"Bowl maior e rampa.",
+         "url":"https://i.imgur.com/U3tXv9w.jpg"
+      },
+      {
+         "id":"35",
+         "album":"2",
+         "descrição":"Pista vista inteira, bowls e obstaculos.",
+         "url":"https://i.imgur.com/FIs6XHc.jpg"
+      },
+      {
+         "id":"36",
+         "album":"3",
+         "descrição":"Rampa inteira.",
+         "url":"https://i.imgur.com/bPLvWjz.jpg"
+      },
+      {
+         "id":"37",
+         "album":"3",
+         "descrição":"Vista topo da rampa.",
+         "url":"https://i.imgur.com/9JRXQPQ.jpg"
+      },
+      {
+         "id":"38",
+         "album":"3",
+         "descrição":"Vista da pista de obstaculos.",
+         "url":"https://i.imgur.com/ab5AL1t.jpg"
+      },
+      {
+         "id":"39",
+         "album":"3",
+         "descrição":"Rampa inteira.",
+         "url":"https://i.imgur.com/bPLvWjz.jpg"
+      },
+      {
+         "id":"40",
+         "album":"3",
+         "descrição":"Vista topo da rampa.",
+         "url":"https://i.imgur.com/9JRXQPQ.jpg"
+      },
+      {
+         "id":"41",
+         "album":"3",
+         "descrição":"Vista da pista de obstaculos.",
+         "url":"https://i.imgur.com/ab5AL1t.jpg"
+      },
+      {
+         "id":"42",
+         "album":"3",
+         "descrição":"Rampa inteira.",
+         "url":"https://i.imgur.com/bPLvWjz.jpg"
+      },
+      {
+         "id":"43",
+         "album":"3",
+         "descrição":"Vista topo da rampa.",
+         "url":"https://i.imgur.com/9JRXQPQ.jpg"
+      },
+      {
+         "id":"44",
+         "album":"3",
+         "descrição":"Vista da pista de obstaculos.",
+         "url":"https://i.imgur.com/ab5AL1t.jpg"
+      },
+      {
+         "id":"45",
+         "album":"3",
+         "descrição":"Rampa inteira.",
+         "url":"https://i.imgur.com/bPLvWjz.jpg"
+      },
+      {
+         "id":"46",
+         "album":"3",
+         "descrição":"Vista topo da rampa.",
+         "url":"https://i.imgur.com/9JRXQPQ.jpg"
+      },
+      {
+         "id":"47",
+         "album":"3",
+         "descrição":"Vista da pista de obstaculos.",
+         "url":"https://i.imgur.com/ab5AL1t.jpg"
+      },
+      {
+         "id":"48",
+         "album":"4",
+         "descrição":"Nova zoo rampa antiga.",
+         "url":"https://i.imgur.com/3r1Ptci.jpg"
+      },
+      {
+         "id":"49",
+         "album":"4",
+         "descrição":"Nova zoo pista de obstaculos antiga.",
+         "url":"https://i.imgur.com/tOsJ3AM.jpg"
+      },
+      {
+         "id":"50",
+         "album":"4",
+         "descrição":"Nova zoo em periodo de reforma.",
+         "url":"https://i.imgur.com/jhNCdaK.jpg"
+      },
+      {
+         "id":"51",
+         "album":"4",
+         "descrição":"Nova zoo rampa antiga.",
+         "url":"https://i.imgur.com/3r1Ptci.jpg"
+      },
+      {
+         "id":"52",
+         "album":"4",
+         "descrição":"Nova zoo pista de obstaculos antiga.",
+         "url":"https://i.imgur.com/tOsJ3AM.jpg"
+      },
+      {
+         "id":"53",
+         "album":"4",
+         "descrição":"Nova zoo em periodo de reforma.",
+         "url":"https://i.imgur.com/jhNCdaK.jpg"
+      },
+      {
+         "id":"54",
+         "album":"4",
+         "descrição":"Nova zoo rampa antiga.",
+         "url":"https://i.imgur.com/3r1Ptci.jpg"
+      },
+      {
+         "id":"55",
+         "album":"4",
+         "descrição":"Nova zoo pista de obstaculos antiga.",
+         "url":"https://i.imgur.com/tOsJ3AM.jpg"
+      },
+      {
+         "id":"56",
+         "album":"4",
+         "descrição":"Nova zoo em periodo de reforma.",
+         "url":"https://i.imgur.com/jhNCdaK.jpg"
+      },
+      {
+         "id":"57",
+         "album":"4",
+         "descrição":"Nova zoo rampa antiga.",
+         "url":"https://i.imgur.com/3r1Ptci.jpg"
+      },
+      {
+         "id":"58",
+         "album":"4",
+         "descrição":"Nova zoo pista de obstaculos antiga.",
+         "url":"https://i.imgur.com/tOsJ3AM.jpg"
+      },
+      {
+         "id":"59",
+         "album":"4",
+         "descrição":"Nova zoo em periodo de reforma.",
+         "url":"https://i.imgur.com/jhNCdaK.jpg"
+      },
+      {
+         "id":"60",
+         "album":"5",
+         "descrição":"Santê dia de evento.",
+         "url":"https://i.imgur.com/5xxvZV1.jpg"
+      },
+      {
+         "id":"61",
+         "album":"5",
+         "descrição":"Santê campeonato.",
+         "url":"https://i.imgur.com/bBeqUBf.jpg"
+      },
+      {
+         "id":"62",
+         "album":"5",
+         "descrição":"Santê dia de evento.",
+         "url":"https://i.imgur.com/5xxvZV1.jpg"
+      },
+      {
+         "id":"63",
+         "album":"5",
+         "descrição":"Santê campeonato.",
+         "url":"https://i.imgur.com/bBeqUBf.jpg"
+      },
+      {
+         "id":"64",
+         "album":"5",
+         "descrição":"Santê dia de evento.",
+         "url":"https://i.imgur.com/5xxvZV1.jpg"
+      },
+      {
+         "id":"65",
+         "album":"5",
+         "descrição":"Santê campeonato.",
+         "url":"https://i.imgur.com/bBeqUBf.jpg"
+      },
+      {
+         "id":"66",
+         "album":"5",
+         "descrição":"Santê dia de evento.",
+         "url":"https://i.imgur.com/5xxvZV1.jpg"
+      },
+      {
+         "id":"67",
+         "album":"5",
+         "descrição":"Santê campeonato.",
+         "url":"https://i.imgur.com/bBeqUBf.jpg"
+      },
+      {
+         "id":"68",
+         "album":"5",
+         "descrição":"Santê dia de evento.",
+         "url":"https://i.imgur.com/5xxvZV1.jpg"
+      },
+      {
+         "id":"69",
+         "album":"5",
+         "descrição":"Santê campeonato.",
+         "url":"https://i.imgur.com/bBeqUBf.jpg"
+      },
+      {
+         "id":"70",
+         "album":"5",
+         "descrição":"Santê dia de evento.",
+         "url":"https://i.imgur.com/5xxvZV1.jpg"
+      },
+      {
+         "id":"71",
+         "album":"5",
+         "descrição":"Santê campeonato.",
+         "url":"https://i.imgur.com/bBeqUBf.jpg"
+      },
+      {
+         "id":"72",
+         "album":"6",
+         "descrição":"Artes feitas em shape de Cruiser.",
+         "url":"https://i.imgur.com/txTWQgX.png"
+      },
+      {
+         "id":"73",
+         "album":"6",
+         "descrição":"Sinuca bar e pista de skate.",
+         "url":"https://i.imgur.com/SlTu3bk.png"
+      },
+      {
+         "id":"74",
+         "album":"6",
+         "descrição":"Vista do bar e espaço de convivencia.",
+         "url":"https://i.imgur.com/jg6mppM.png"
+      },
+      {
+         "id":"75",
+         "album":"6",
+         "descrição":"Artes feitas em shape de Cruiser.",
+         "url":"https://i.imgur.com/txTWQgX.png"
+      },
+      {
+         "id":"76",
+         "album":"6",
+         "descrição":"Sinuca bar e pista de skate.",
+         "url":"https://i.imgur.com/SlTu3bk.png"
+      },
+      {
+         "id":"77",
+         "album":"6",
+         "descrição":"Vista do bar e espaço de convivencia.",
+         "url":"https://i.imgur.com/jg6mppM.png"
+      },
+      {
+         "id":"78",
+         "album":"6",
+         "descrição":"Artes feitas em shape de Cruiser.",
+         "url":"https://i.imgur.com/txTWQgX.png"
+      },
+      {
+         "id":"79",
+         "album":"6",
+         "descrição":"Sinuca bar e pista de skate.",
+         "url":"https://i.imgur.com/SlTu3bk.png"
+      },
+      {
+         "id":"81",
+         "album":"6",
+         "descrição":"Artes feitas em shape de Cruiser.",
+         "url":"https://i.imgur.com/txTWQgX.png"
+      },
+      {
+         "id":"82",
+         "album":"6",
+         "descrição":"Sinuca bar e pista de skate.",
+         "url":"https://i.imgur.com/SlTu3bk.png"
+      },
+      {
+         "id":"83",
+         "album":"6",
+         "descrição":"Sinuca bar e pista de skate.",
+         "url":"https://i.imgur.com/SlTu3bk.png"
+      },
+      {
+         "id":"84",
+         "album":"6",
+         "descrição":"Ollie no hidrante",
+         "url":"https://i.imgur.com/VBExiZM.png"
+      },
+      {
+         "id":"85",
+         "album":"7",
+         "descrição":"Vista da rampa maior.",
+         "url":"https://i.imgur.com/H25Gt6n.png"
+      },
+      {
+         "id":"86",
+         "album":"7",
+         "descrição":"Vista da pista inteira.",
+         "url":"https://i.imgur.com/TSz63vG.png"
+      },
+      {
+         "id":"87",
+         "album":"7",
+         "descrição":"Vista do lago do parque.",
+         "url":"https://i.imgur.com/YCOJJ9d.png"
+      },
+      {
+         "id":"88",
+         "album":"7",
+         "descrição":"Vista da rampa maior.",
+         "url":"https://i.imgur.com/H25Gt6n.png"
+      },
+      {
+         "id":"89",
+         "album":"7",
+         "descrição":"Vista da pista inteira.",
+         "url":"https://i.imgur.com/TSz63vG.png"
+      },
+      {
+         "id":"90",
+         "album":"7",
+         "descrição":"Vista do lago do parque.",
+         "url":"https://i.imgur.com/YCOJJ9d.png"
+      },
+      {
+         "id":"91",
+         "album":"7",
+         "descrição":"Vista da rampa maior.",
+         "url":"https://i.imgur.com/H25Gt6n.png"
+      },
+      {
+         "id":"92",
+         "album":"7",
+         "descrição":"Vista da pista inteira.",
+         "url":"https://i.imgur.com/TSz63vG.png"
+      },
+      {
+         "id":"93",
+         "album":"7",
+         "descrição":"Vista do lago do parque.",
+         "url":"https://i.imgur.com/YCOJJ9d.png"
+      },
+      {
+         "id":"94",
+         "album":"7",
+         "descrição":"Vista da rampa maior.",
+         "url":"https://i.imgur.com/H25Gt6n.png"
+      },
+      {
+         "id":"95",
+         "album":"7",
+         "descrição":"Vista da pista inteira.",
+         "url":"https://i.imgur.com/TSz63vG.png"
+      },
+      {
+         "id":"96",
+         "album":"7",
+         "descrição":"Vista do lago do parque.",
+         "url":"https://i.imgur.com/YCOJJ9d.png"
+      }
    ],
    "skateSlides":[
-      [
-         {
-            "id":2,
-            "album_id":"2",
-            "url":"https://i.imgur.com/EujhVgU.jpg"
-         },
-         {
-            "album_id":"4",
-            "url":"https://i.imgur.com/9UrAlTE.jpg",
-            "id":3
-         },
-         {
-            "album_id":"3",
-            "url":"https://i.imgur.com/sLHZC1i.jpg",
-            "id":4
-         }
-      ]
+      {
+         "id":2,
+         "album_id":"2",
+         "url":"https://i.imgur.com/EujhVgU.jpg"
+      },
+      {
+         "album_id":"4",
+         "url":"https://i.imgur.com/9UrAlTE.jpg",
+         "id":3
+      },
+      {
+         "album_id":"3",
+         "url":"https://i.imgur.com/sLHZC1i.jpg",
+         "id":4
+      }
    ]
 }
